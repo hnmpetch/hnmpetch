@@ -1,6 +1,6 @@
 # Hello I'm Petch 💎💎💎
 
-I am a IT student first year (Vocational Certificate).
+I am a IT student secound year (Vocational Certificate).
 
 ---
 
@@ -20,12 +20,12 @@ And now I'm
 
 - HTML        80% [################----]
 - CSS         70% [##############------]
-- Javascript  60% [############--------]
-- Typescript  40% [########------------]
+- Javascript  80% [################----]
+- Typescript  50% [##########----------]
 - Python      70% [##############------]
 - JAVA        40% [########------------]
 - C++         40% [########------------]
-- Security    30% [######--------------]
+- Security    60% [############--------]
 
 ---
 
@@ -33,7 +33,6 @@ And now I'm
 
 - More Full stack developer
 - More Type script
-- JAVA
 - Python
 - Reverse Engineering
 - Cyber security
