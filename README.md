@@ -12,7 +12,6 @@ And now I'm
 - 🕸 Web developer
 - 👨‍💻 Full stack developer
 - 🔧 Iot maker
-- 🤖 Ai engineer
 
 ---
 
@@ -21,8 +20,8 @@ And now I'm
 - HTML        80% [################----]
 - CSS         70% [##############------]
 - Javascript  80% [################----]
-- Typescript  50% [##########----------]
-- Python      70% [##############------]
+- Typescript  60% [############--------]
+- Python      80% [################----]
 - JAVA        40% [########------------]
 - C++         40% [########------------]
 - Security    60% [############--------]
@@ -36,6 +35,8 @@ And now I'm
 - Python
 - Reverse Engineering
 - Cyber security
+- Machine Learning
+- Algoloithim
 
 ---
 
