@@ -1,11 +1,13 @@
 # Hello I'm Petch 💎💎💎
 
-I am a IT student secound year (Vocational Certificate).
+I am an IT student second year (Vocational Certificate).
 
 ---
 
 ## About ME
+Hello I am **Petch**. I like in technology and programming. I use linux daily.
 
+### History
 I start coding at 11 year old first time I create datapack in game minecraft. and i start learning code umm many language like Web Node.js Database Typescript JAVA Game Python and many much language.
 And now I'm 
 
@@ -17,26 +19,41 @@ And now I'm
 
 ## Tech skill
 
-- HTML        80% [################----]
-- CSS         70% [##############------]
 - Javascript  80% [################----]
-- Typescript  60% [############--------]
+- Typescript  60% [################----]
 - Python      80% [################----]
-- JAVA        40% [########------------]
-- C++         40% [########------------]
-- Security    60% [############--------]
+- JAVA        40% [#######-------------]
+- C++         35% [#######-------------]
+- Security    40% [########------------]
+- Backend     70% [##############------]
+- Frontend    50% [##########----------]
+- DevOps      20% [####----------------]
+- Docker      60% [############--------]
 
 ---
 
-## Studing
+## Learning
 
-- More Full stack developer
-- More Type script
-- Python
-- Reverse Engineering
-- Cyber security
-- Machine Learning
-- Algoloithim
+- Machine learning
+- Multi service
+
+---
+
+## Project
+- MimirRAG (Bot trade)
+- OnYourLand (Sell pixel on website)
+- JongNa (Reserve room)
+- PhuketWasteApp (WebApp (Vibe code for Depa))
+- Smart Parking System (AI checking parking lot)
+- RAG (RAG for agent)
+- Old Door Webshop (Minecraft server webshop)
+
+---
+
+## Certificate
+![Depa AI coding & Competition 2025](images/01.jpg)
+![Thailand Inovation Vocation 2025](images/02.jpg)
+![Depa AI coding & Competition 2026](images/03.jpg)
 
 ---
 
