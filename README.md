@@ -1,41 +1,26 @@
 # Hello I'm Petch 💎💎💎
+I am a 2nd-year IT Vocational Certificate student based in Phuket, Thailand.
 
-I am an IT student second year (Vocational Certificate).
+## About Me
+I am deeply passionate about technology, software architecture, and programming. I am a daily Linux user with a strong interest in building efficient systems. My coding journey started at 11 years old by creating datapacks for Minecraft, which sparked my love for logic and development. Since then, I have expanded my skills across various languages and frameworks.
 
----
-
-## About ME
-Hello I am **Petch**. I like in technology and programming. I use linux daily.
-
-### History
-I start coding at 11 year old first time I create datapack in game minecraft. and i start learning code umm many language like Web Node.js Database Typescript JAVA Game Python and many much language.
-And now I'm 
-
-- 🕸 Web developer
-- 👨‍💻 Full stack developer
-- 🔧 Iot maker
+### Currently, I focus on:
+🕸 Web Development
+👨‍💻 Full Stack Development
+🔧 IoT & Hardware Integration
 
 ---
 
-## Tech skill
+## Tech Skills
 
-- Javascript  80% [################----]
-- Typescript  60% [################----]
-- Python      80% [################----]
-- JAVA        40% [#######-------------]
-- C++         35% [#######-------------]
-- Security    40% [########------------]
-- Backend     70% [##############------]
-- Frontend    50% [##########----------]
-- DevOps      20% [####----------------]
-- Docker      60% [############--------]
+- Languages: Python (Advanced), JavaScript/TypeScript (Advanced), Java, C++
+- Backend & API: Node.js, RESTful APIs, Fastify
+- Frontend: React, ViteJS
+- DevOps & Tools: Docker, Linux Administration, Git
+- Security: Basic Penetration Testing & Vulnerability Analysis
 
----
-
-## Learning
-
-- Machine learning
-- Multi service
+### Currently Learning:
+Machine Learning Architecture, Microservices & Multi-service integration.
 
 ---
 
