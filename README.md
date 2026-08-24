@@ -51,9 +51,12 @@ And now I'm
 ---
 
 ## Certificate
-![Depa AI coding & Competition 2025](images/01.jpg)
-![Thailand Inovation Vocation 2025](images/02.jpg)
-![Depa AI coding & Competition 2026](images/03.jpg)
+Depa National AI coding & Competition 2025
+![Depa National AI coding & Competition 2025](images/01.jpg)
+National Thailand Inovation Vocation 2025
+![National Thailand Inovation Vocation 2025](images/02.jpg)
+Depa National AI coding & Competition 2026
+![Depa National AI coding & Competition 2026](images/03.jpg)
 
 ---
 
